@@ -4,10 +4,10 @@
 # Title (Please modify the title)
 ## Team
 
-| ![박패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![이패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![최패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![김패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![오패캠](https://avatars.githubusercontent.com/u/156163982?v=4) |
-| :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: |
-|            [박패캠](https://github.com/UpstageAILab)             |            [이패캠](https://github.com/UpstageAILab)             |            [최패캠](https://github.com/UpstageAILab)             |            [김패캠](https://github.com/UpstageAILab)             |            [오패캠](https://github.com/UpstageAILab)             |
-|                            팀장, 담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |
+| ![박성우](https://avatars.githubusercontent.com/u/156163982?v=4) | ![노균호](https://avatars.githubusercontent.com/u/156163982?v=4) | ![윤수인](https://avatars.githubusercontent.com/u/156163982?v=4) | ![조예람](https://avatars.githubusercontent.com/u/156163982?v=4) |
+| :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: |
+|            [박성우](https://github.com/UpstageAILab)             |            [노균호](https://github.com/UpstageAILab)             |            [윤수인](https://github.com/UpstageAILab)             |            [조예람](https://github.com/UpstageAILab)             |
+|                         팀장, EDA, Modeling, Ensemble                          |                         EDA, Modeling                   |                        EDA, Modeling                          |                            EDA, Modeling, Ensemble               |
 
 ## 0. Overview
 ### Environment
