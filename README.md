@@ -4,7 +4,7 @@
 # Title (Please modify the title)
 ## Team
 
-| ![박성우 사진](https://github.com/UpstageAILab/upstage-ai-final-rs2/assets/138054658/01a46263-0c8d-4847-b850-6d598e4bb624) | ![노균호](https://avatars.githubusercontent.com/u/156163982?v=4) | ![윤수인](https://avatars.githubusercontent.com/u/156163982?v=4) | ![조예람](https://avatars.githubusercontent.com/u/156163982?v=4) |
+| ![박성우 사진](https://github.com/UpstageAILab/upstage-ai-final-rs2/assets/138054658/01a46263-0c8d-4847-b850-6d598e4bb624) | ![노균호](https://avatars.githubusercontent.com/u/156163982?v=4) | ![윤수인](https://github.com/UpstageAILab/upstage-ai-final-rs2/assets/138054658/07d0befd-c6c9-4fa8-a7e2-77b35506f2c7) | ![조예람](https://github.com/UpstageAILab/upstage-ai-final-rs2/assets/138054658/b4483cf6-44e2-4123-89dd-6b7eca2dab7a) |
 | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: |
 |            [박성우](https://github.com/UpstageAILab)             |            [노균호](https://github.com/UpstageAILab)             |            [윤수인](https://github.com/UpstageAILab)             |            [조예람](https://github.com/UpstageAILab)             |
 |                         팀장, EDA, Modeling, Ensemble                          |                         EDA, Modeling                   |                        EDA, Modeling                          |                            EDA, Modeling, Ensemble               |
