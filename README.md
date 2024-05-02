@@ -4,7 +4,7 @@
 # Title (Please modify the title)
 ## Team
 
-| ![박성우 사진](https://github.com/UpstageAILab/upstage-ai-final-rs2/assets/138054658/01a46263-0c8d-4847-b850-6d598e4bb624) | ![노균호](https://avatars.githubusercontent.com/u/156163982?v=4) | ![윤수인](https://github.com/UpstageAILab/upstage-ai-final-rs2/assets/138054658/07d0befd-c6c9-4fa8-a7e2-77b35506f2c7) | ![조예람](https://github.com/UpstageAILab/upstage-ai-final-rs2/assets/138054658/b4483cf6-44e2-4123-89dd-6b7eca2dab7a) |
+| ![박성우 사진](https://github.com/UpstageAILab/upstage-ai-final-rs2/assets/138054658/ccc7c3c1-8af6-4bae-9581-d12c2821542e) | ![ㄴㄱㅎ](https://github.com/UpstageAILab/upstage-ai-final-rs2/assets/138054658/11c113b0-35cf-4f7b-b344-e03d8e426020) | ![윤수인](https://github.com/UpstageAILab/upstage-ai-final-rs2/assets/138054658/f8e27e8e-8f59-4d87-b4c5-f8e6c661ca79) | ![조예람](https://github.com/UpstageAILab/upstage-ai-final-rs2/assets/138054658/324ea6a8-e391-4fbf-b422-d6545843dccb) |
 | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: |
 |            [박성우](https://github.com/UpstageAILab)             |            [노균호](https://github.com/UpstageAILab)             |            [윤수인](https://github.com/UpstageAILab)             |            [조예람](https://github.com/UpstageAILab)             |
 |                         팀장, EDA, Modeling, Ensemble                          |                         EDA, Modeling                   |                        EDA, Modeling                          |                            EDA, Modeling, Ensemble               |
