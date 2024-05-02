@@ -11,16 +11,19 @@
 
 ## 0. Overview
 ### Environment
-- _Write Development environment_
+- Vscode, ssh server(RTX 3090/Ubuntu 20.04.6), pytorch
 
-### Requirements
-- _Write Requirements_
 
 ## 1. Competiton Info
 
 ### Overview
+![대회 개요](https://github.com/UpstageAILab/upstage-ai-final-rs2/assets/138054658/43f105ad-3d3c-49bf-88a0-8de7e5135a98)
 
 - 'Commerce Behavior Purchase Prediction' 대회는 사용자의 과거 쇼핑 패턴을 분석하여 미래(next one week)에 사용자가 구매할 상품을 추천하는 태스크의 RecSys 대회입니다. 하는 것을 목적으로 합니다. 추천 시스템은 수많은 제품 중에서 적합한 제품을 찾는 데 어려움을 겪는 사용자들에게, 추천 시스템은 개인의 쇼핑 습관, 관심사, 과거 구매 이력 등을 분석해 맞춤형 상품을 추천할 수 있습니다. 따라서, 이커머스 분야에서 추천 시스템은 사용자의 취향을 분석하여 알맞은 상품을 추천함으로써 사용자의 경험을 증진하고 기업의 매출 향상에 도움을 줄 수 있습니다. 이커머스 추천 시스템을 구축하기 위한 알맞은 데이터 전처리 작업에서부터 시작하여, 목적에 맞는 모델을 선택하고, PyTorch 및 기존 라이브러리를 활용하여 모델을 구축하고, Feature Engineering 및 예측을 수행하는 전반적인 과정을 수행하였으며, 평가 지표에 최적화된 파이프라인을 개발하였습니다.
+
+### Evaluation Metrix
+본 대회에서는 NDCG@10 평가지표를 활용하여 모델의 성능을 측정합니다.
+![평가지표](https://github.com/UpstageAILab/upstage-ai-final-rs2/assets/138054658/51a4b04d-bd18-4fa6-84f1-28a1fd7393fd)
 
 ### Timeline
 
