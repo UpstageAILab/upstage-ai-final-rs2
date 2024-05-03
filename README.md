@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/nDCOQnZo)
 
 
-# Commerce Purchase Behavior Prediction 커머스 상품 구매 예측 및 추천 대회
+# Commerce Purchase Behavior Prediction 상품 구매 예측 및 추천 대회
 ## Team
 
 | ![박성우 사진](https://github.com/UpstageAILab/upstage-ai-final-rs2/assets/138054658/ccc7c3c1-8af6-4bae-9581-d12c2821542e) | ![노균호](https://github.com/UpstageAILab/upstage-ai-final-rs2/assets/138054658/f3372ca8-ccb1-4e55-b082-eee25c67401e) | ![윤수인](https://github.com/UpstageAILab/upstage-ai-final-rs2/assets/138054658/f3272375-44d9-4d6e-904b-38bd1ad7b935) | ![조예람](https://github.com/UpstageAILab/upstage-ai-final-rs2/assets/138054658/324ea6a8-e391-4fbf-b422-d6545843dccb) |
