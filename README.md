@@ -68,8 +68,19 @@
 - 사용자는(user_id)는 홈페이지에 들어가 세션(user_session)을 할당받고 특정 아이템(item_id)을 특정 시간(event_time)에 상품(product_id) 장바구니에 추가(event_type = 'cart')하거나 조회(event_type = 'view')하거나 구매(event_type = 'purchase')할 수 있음
 - 각 상품 별로 event_time 단위로 카테고리 코드(category_code)와 브랜드(brand), 가격(price)가 주어짐
 - event type 간의 비중을 살펴보면 view(99.7%), cart(0.2%), purchase(0.02%)로 view 관련 데이터가 대부분이었으며 뚜렷하게 방문자 수 증가가 소비로 이어지는 등의 패턴을 확인하기 어려웠음
+  
+  ![일별](https://github.com/UpstageAILab/upstage-ai-final-rs2/assets/138054658/95a25fcb-364d-4432-b4b6-782616e64ca0)
+
+  ![이벤트타입비교](https://github.com/UpstageAILab/upstage-ai-final-rs2/assets/138054658/e982e879-c533-4c2e-9c1f-a80b661ac008)        ![이벤트타입비교2](https://github.com/UpstageAILab/upstage-ai-final-rs2/assets/138054658/6c762078-aadf-4aeb-9849-f71db11df233)
+
 - 가격 분포는 굉장히 넓게 나타났으며 200 달러 내외에 가장 많은 빈도를 보였으며, 반바지가 평균 가격이 비싸고 스카프가 가장 싼 상품으로 확인하였음
+- 
+ ![가격1](https://github.com/UpstageAILab/upstage-ai-final-rs2/assets/138054658/64c7d413-da38-4f5e-ba95-1dbcb198280c)  ![가격2](https://github.com/UpstageAILab/upstage-ai-final-rs2/assets/138054658/4ba85145-4f04-48a2-84af-7f3ed6890411)
+
 - 고객들의 view, cart, purchase 빈도수가 높은 상품군으로는 신발로 고객들의 관심이 높음을 알 수 있음
+
+  
+![top20](https://github.com/UpstageAILab/upstage-ai-final-rs2/assets/138054658/ca662978-688c-42a1-8db7-1dd1b0767d30)
 
 ### Data Processing
 
@@ -86,7 +97,9 @@
 
 - 베이지안 최적화 방법에 기반한 Hyperopt library를 활용하여 parameter tuning 진행하였음
 - 베이지안 최적화는 목적 함수를 최대 혹은 최소로 하는 최적해(Pair-Surrogate 대체 모델을 평가하여 업데이트)를 찾아나가는 방법
-![모델결과](https://github.com/UpstageAILab/upstage-ai-final-rs2/assets/138054658/8b61b73b-a33e-4d57-ac79-cede588b27a2)
+
+![모델결과](https://github.com/UpstageAILab/upstage-ai-final-rs2/assets/138054658/d1d8c02d-0f9a-4bc2-9430-a78c1e79afae)
+
 
 
 ## 5. Result
