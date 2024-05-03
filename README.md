@@ -86,7 +86,8 @@
 
 - 베이지안 최적화 방법에 기반한 Hyperopt library를 활용하여 parameter tuning 진행하였음
 - 베이지안 최적화는 목적 함수를 최대 혹은 최소로 하는 최적해(Pair-Surrogate 대체 모델을 평가하여 업데이트)를 찾아나가는 방법
-![모델결과](https://github.com/UpstageAILab/upstage-ai-final-rs2/assets/138054658/96e8ff83-e951-47d0-98a9-cb1542c9fcbe)
+![모델결과](https://github.com/UpstageAILab/upstage-ai-final-rs2/assets/138054658/8b61b73b-a33e-4d57-ac79-cede588b27a2)
+
 
 ## 5. Result
 
